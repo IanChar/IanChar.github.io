@@ -74,8 +74,12 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **(10-716) Advanced Machine Learning: Theory and Methods**
   <br>
+  Teaching Assistant
+  <br>
   Carnegie Mellon University, Spring 2020
 
 - **(APPM 4350) Fourier Series and Boundary Value Problems**
+  <br>
+  Teaching Assistant
   <br>
   University of Colorado Boulder, Fall 2016
