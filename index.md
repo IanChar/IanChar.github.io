@@ -52,7 +52,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   [[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
   
 
-## Workshop Papers (<sup>\*</sup> denotes equal contribution)
+## Workshop Papers (\* indicates equal contribution)
 
 - **BATS: Best Action Trajectory Stitching**
   <br>
