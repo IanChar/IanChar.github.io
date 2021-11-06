@@ -8,11 +8,13 @@ I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu
 
 Before joining CMU, I earned a MS in [Applied Mathematics from University of Colorado Boulder](https://www.colorado.edu/amath/) and was advised by [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/). I also went to University of Colorado Boulder for my undergraduate and earned a BS in both applied math and computer science.
 
-## Preprints
+## Publications
 
 - **Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification**
   <br>
   Youngseog Chung, Willie Neiswanger, **Ian Char**, Jeff Schneider
+  <br>
+  Advances in Neural Information Processing Systems. **NeurIPS 2021**.
   <br>
   [[PDF](https://arxiv.org/pdf/2011.09588.pdf)] [[Code](https://github.com/YoungseogChung/calibrated-quantile-uq)]
 
@@ -20,10 +22,9 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   <br>
   Viraj Mehta, **Ian Char**, Willie Neiswanger, Youngseog Chung, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
   <br>
+  IEEE Conference on Decision and Control. **CDC 2021**.
+  <br>
   [[PDF](https://arxiv.org/pdf/2006.12682.pdf)]
-  
-
-## Publications
 
 - **Offline Contextual Bayeisan Optimization**
   <br>
@@ -51,7 +52,37 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   [[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
   
 
-## Workshop Papers
+## Workshop Papers (<sup>\*</sup> denotes equal contribution)
+
+- **BATS: Best Action Trajectory Stitching**
+  <br>
+  Viraj Mehta<sup>\*</sup>, **Ian Char**<sup>\*</sup>, Adam Villaflor, John Dolan, Jeff Schneider
+  <br>
+  NeurIPS 2021 Offline Reinforcement Learning Workshop
+  <br>
+  (PDF and code to come!)
+
+- **A Model-Based Reinforcement Learning Approach for Beta Control**
+  <br>
+  **Ian Char**, Youngseog Chung, Mark Boyer, Egemen Kolemen, Jeff Schneider
+  <br>
+  APS DPP 2021 Mini-Conference on Machine Learning
+
+- **Uncertainty Toolbox: an Open-Source Library for Assessing, Visualizing, and Improving Uncertainty Quantification**
+  <br>
+  Youngseog Chung, **Ian Char**, Han Guo, Jeff Schneider, Willie Neiswanger
+  <br>
+  Uncertainty and Robustness in Deep Learning Workshop (ICML 2021)
+  <br>
+  [[PDF](https://arxiv.org/abs/2109.10254)][[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
+
+- **Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification**
+  <br>
+  Youngseog Chung, Willie Neiswanger, **Ian Char**, Jeff Schneider
+  <br>
+  Uncertainty and Robustness in Deep Learning Workshop (ICML 2021)
+  <br>
+  [[PDF](https://arxiv.org/pdf/2011.09588.pdf)] [[Code](https://github.com/YoungseogChung/calibrated-quantile-uq)]
 
 - **Neural Dynamical Systems**
   <br>
@@ -70,7 +101,25 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   <br>
   [[PDF](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_27.pdf)] 
 
+## Awards
+
+- **NSF GRFP (2018)**
+  <br>
+  NSF Graduate Research Fellowship Program, 2018
+
+- **Outstanding Graduate for Academic Achievement**
+  <br>
+  University of Colorado at Boulder, May 2018
+  <br>
+  Awarded to students graduating with a 4.0.
+
 ## Teaching
+
+- **(10-706/707) Mathematical/Computational Foundations for Machine Learning**
+  <br>
+  Teaching Assistant
+  <br>
+  Carnegie Mellon University, Fall 2021
 
 - **(10-716) Advanced Machine Learning: Theory and Methods**
   <br>
