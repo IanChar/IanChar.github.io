@@ -115,7 +115,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 ## Teaching
 
-- **(10-706/707) Mathematical/Computational Foundations for Machine Learning**
+- **(10-606/607) Mathematical/Computational Foundations for Machine Learning**
   <br>
   Teaching Assistant
   <br>
