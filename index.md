@@ -4,11 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU advised by [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests include reinforcement learning, bayesian optimization, and uncertainty quantification. I am particularly interested in how machine learning can be applied to the sciences, and my current research focuses revolve around how we can learn better controls for nuclear fusion reactors.
+I am a fifth year Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU advised by [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests include reinforcement learning, bayesian optimization, and uncertainty quantification. I am particularly interested in how machine learning can be applied to the sciences, and my current research focuses revolve around how we can [learn controls for tokamaks](https://www.cs.cmu.edu/news/2022/ian-char-nuclear-fusion).
 
 Before joining CMU, I earned a MS in [Applied Mathematics from University of Colorado Boulder](https://www.colorado.edu/amath/) and was advised by [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/). I also went to University of Colorado Boulder for my undergraduate and earned a BS in both applied math and computer science.
 
 ## Publications
+
+- **Exploration via Planning for Information about the Optimal Trajectory**
+  <br>
+  Viraj Mehta, **Ian Char**, Joseph Abbate, Rory Conlin, Mark D Boyer, Stefano Ermon, Jeff Schneider, Willie Neiswanger
+  <br>
+  Advances in Neural Information Processing Systems. **NeurIPS 2022**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2210.04642.pdf)] [[Code](https://github.com/fusion-ml/trajectory-information-rl)]
+
+- **Deep Attentive Variational Inference**
+  <br>
+  Ifigeneia Apostolopoulou, **Ian Char**, Elan Rosenfeld, Artur Dubrawski
+  <br>
+  International Conference on Learning Representations. **ICLR 2022**.
+  <br>
+  [[PDF](https://openreview.net/pdf?id=T4-65DNlDij)] [[Code](https://github.com/ifiaposto/Deep_Attentive_VI)]
 
 - **Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification**
   <br>
@@ -50,23 +66,31 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualizations. Also: a glossary of useful terms and a collection of relevant papers and references.
   <br>
   [[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
-  
 
-## Workshop Papers (\* indicates equal contribution)
+
+## Preprints and Workshop Papers (\* indicates equal contribution)
+
+- **Offline Model-Based Reinforcement Learning for Tokamak Control**
+  <br>
+  **Ian Char**, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
+  <br>
+  NeurIPS 2022 Machine Learning and the Physical Sciences
+
+- **How Useful are Gradients for OOD Detection Really?**
+  <br>
+  Conor Igoe, Youngseog Chung, **Ian Char**, Jeff Schneider
+  <br>
+  Preprint.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2205.10439.pdf)]
 
 - **BATS: Best Action Trajectory Stitching**
   <br>
-  Viraj Mehta<sup>\*</sup>, **Ian Char**<sup>\*</sup>, Adam Villaflor, John Dolan, Jeff Schneider
+  **Ian Char**<sup>\*</sup>, Viraj Mehta<sup>\*</sup>, Adam Villaflor, John Dolan, Jeff Schneider
   <br>
   NeurIPS 2021 Offline Reinforcement Learning Workshop
   <br>
-  (PDF and code to come!)
-
-- **A Model-Based Reinforcement Learning Approach for Beta Control**
-  <br>
-  **Ian Char**, Youngseog Chung, Mark Boyer, Egemen Kolemen, Jeff Schneider
-  <br>
-  APS DPP 2021 Mini-Conference on Machine Learning
+  [[PDF](https://arxiv.org/pdf/2204.12026.pdf)]
 
 - **Uncertainty Toolbox: an Open-Source Library for Assessing, Visualizing, and Improving Uncertainty Quantification**
   <br>
@@ -76,30 +100,13 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   <br>
   [[PDF](https://arxiv.org/abs/2109.10254)][[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
 
-- **Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification**
-  <br>
-  Youngseog Chung, Willie Neiswanger, **Ian Char**, Jeff Schneider
-  <br>
-  Uncertainty and Robustness in Deep Learning Workshop (ICML 2021)
-  <br>
-  [[PDF](https://arxiv.org/pdf/2011.09588.pdf)] [[Code](https://github.com/YoungseogChung/calibrated-quantile-uq)]
-
-- **Neural Dynamical Systems**
-  <br>
-  Viraj Mehta, **Ian Char**, Willie Neiswanger, Youngseog Chung, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
-  <br>
-  ICLR 2020 Workshop on Integration of Deep Neural Models and Differential Equations
-  <br>
-  [[PDF](https://openreview.net/pdf?id=Rsmqn9R2Mg)]
- 
-
 - **Offline contextual bayesian optimization for nuclear fusion**
   <br>
   Youngseog Chung, **Ian Char**, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark Dan Boyer, Egemen Kolemen, Jeff Schneider
   <br>
   Machine Learning and the Physical Sciences Workshops at NeurIPS 2019.
   <br>
-  [[PDF](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_27.pdf)] 
+  [[PDF](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_27.pdf)]
 
 ## Awards
 
@@ -132,3 +139,13 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   Teaching Assistant
   <br>
   University of Colorado Boulder, Fall 2016
+
+## Service
+
+- **Machine Learning Department Social Committee**
+  <br>
+  2019-
+
+- **Reviewer for Real World Experiment Design and Activate Learning Workshop**
+  <br>
+  ICML 2022
