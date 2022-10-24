@@ -144,7 +144,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Machine Learning Department Social Committee**
   <br>
-  2019-
+  Fall 2019 Onwards
 
 - **Reviewer for Real World Experiment Design and Activate Learning Workshop**
   <br>
