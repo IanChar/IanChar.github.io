@@ -4,11 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a fifth year Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU advised by [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests include reinforcement learning, bayesian optimization, and uncertainty quantification. I am particularly interested in how machine learning can be applied to the sciences, and my current research focuses revolve around how we can [learn controls for tokamaks](https://www.cs.cmu.edu/news/2022/ian-char-nuclear-fusion).
+I am an ABD Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU advised by [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests include reinforcement learning, Bayesian optimization, and uncertainty quantification. I am particularly interested in how machine learning can be applied to the sciences, and my current research focuses revolve around how we can [learn controls for tokamaks](https://www.cs.cmu.edu/news/2022/ian-char-nuclear-fusion).
 
 Before joining CMU, I earned a MS in [Applied Mathematics from University of Colorado Boulder](https://www.colorado.edu/amath/) and was advised by [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/). I also went to University of Colorado Boulder for my undergraduate and earned a BS in both applied math and computer science.
 
 ## Publications
+
+- **Offline Model-Based Reinforcement Learning for Tokamak Control**
+  <br>
+  **Ian Char**, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
+  <br>
+  Learning for Discovery and Control 2023
+  <br>
+  [[PDF](https://proceedings.mlr.press/v211/char23a/char23a.pdf)]
 
 - **Exploration via Planning for Information about the Optimal Trajectory**
   <br>
@@ -42,7 +50,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   <br>
   [[PDF](https://arxiv.org/pdf/2006.12682.pdf)]
 
-- **Offline Contextual Bayeisan Optimization**
+- **Offline Contextual Bayesian Optimization**
   <br>
   **Ian Char**, Youngseog Chung, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
   <br>
@@ -70,11 +78,13 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 ## Preprints and Workshop Papers (\* indicates equal contribution)
 
-- **Offline Model-Based Reinforcement Learning for Tokamak Control**
+- **PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**
   <br>
-  **Ian Char**, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
+  **Ian Char**, Jeff Schneider
   <br>
-  NeurIPS 2022 Machine Learning and the Physical Sciences
+  Preprint (In Submission).
+  <br>
+  [[PDF](https://arxiv.org/abs/2307.05891)] [[Code](https://github.com/IanChar/GPIDE)]
 
 - **How Useful are Gradients for OOD Detection Really?**
   <br>
@@ -109,6 +119,10 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   [[PDF](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_27.pdf)]
 
 ## Awards
+
+- **Teaching Assistant of the Year**
+  <br>
+  Machine Learning Dperatment, Carnegie Mellon Univeristy (2021-2022)
 
 - **NSF GRFP (2018)**
   <br>
@@ -145,6 +159,10 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 - **Machine Learning Department Social Committee**
   <br>
   Fall 2019 Onwards
+
+- **Reviewer for NeurIPS 2023**
+  <br>
+  NeurIPS 2023
 
 - **Reviewer for Real World Experiment Design and Activate Learning Workshop**
   <br>
