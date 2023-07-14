@@ -18,6 +18,14 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   <br>
   [[PDF](https://proceedings.mlr.press/v211/char23a/char23a.pdf)]
 
+- **Near-optimal Policy Identification in Active Reinforcement Learning**
+  <br>
+  Xiang Li, Viraj Mehta, Johannes Kirschner, **Ian Char**, Willie Neiswanger, Jeff Schneider, Andreas Krause, Ilija Bogunovic
+  <br>
+  International Conference on Learning Representations 2023 **Notable-Top-5% (Oral)**
+  <br>
+  [[PDF](https://arxiv.org/abs/2212.09510)]
+
 - **Exploration via Planning for Information about the Optimal Trajectory**
   <br>
   Viraj Mehta, **Ian Char**, Joseph Abbate, Rory Conlin, Mark D Boyer, Stefano Ermon, Jeff Schneider, Willie Neiswanger
