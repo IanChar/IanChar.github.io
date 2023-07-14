@@ -8,6 +8,8 @@ I am an ABD Ph.D. student in the [Machine Learning Department](https://www.ml.cm
 
 Before joining CMU, I earned a MS in [Applied Mathematics from University of Colorado Boulder](https://www.colorado.edu/amath/) and was advised by [Manuel Lladser](https://amath.colorado.edu/faculty/lladser/). I also went to University of Colorado Boulder for my undergraduate and earned a BS in both applied math and computer science.
 
+[Download my CV here.](cv.pdf)
+
 ## Publications
 
 - **Offline Model-Based Reinforcement Learning for Tokamak Control**
