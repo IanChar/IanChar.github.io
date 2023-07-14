@@ -12,7 +12,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Offline Model-Based Reinforcement Learning for Tokamak Control**
   <br>
-  **Ian Char**, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
+  <u>Ian Char</u>, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
   <br>
   Learning for Discovery and Control 2023
   <br>
@@ -20,7 +20,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Near-optimal Policy Identification in Active Reinforcement Learning**
   <br>
-  Xiang Li, Viraj Mehta, Johannes Kirschner, **Ian Char**, Willie Neiswanger, Jeff Schneider, Andreas Krause, Ilija Bogunovic
+  Xiang Li, Viraj Mehta, Johannes Kirschner, <u>Ian Char</u>, Willie Neiswanger, Jeff Schneider, Andreas Krause, Ilija Bogunovic
   <br>
   International Conference on Learning Representations 2023 **Notable-Top-5% (Oral)**
   <br>
@@ -28,7 +28,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Exploration via Planning for Information about the Optimal Trajectory**
   <br>
-  Viraj Mehta, **Ian Char**, Joseph Abbate, Rory Conlin, Mark D Boyer, Stefano Ermon, Jeff Schneider, Willie Neiswanger
+  Viraj Mehta, <u>Ian Char</u>, Joseph Abbate, Rory Conlin, Mark D Boyer, Stefano Ermon, Jeff Schneider, Willie Neiswanger
   <br>
   Advances in Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
@@ -36,7 +36,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Deep Attentive Variational Inference**
   <br>
-  Ifigeneia Apostolopoulou, **Ian Char**, Elan Rosenfeld, Artur Dubrawski
+  Ifigeneia Apostolopoulou, <u>Ian Char</u>, Elan Rosenfeld, Artur Dubrawski
   <br>
   International Conference on Learning Representations. **ICLR 2022**.
   <br>
@@ -44,7 +44,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Beyond Pinball Loss: Quantile Methods for Calibrated Uncertainty Quantification**
   <br>
-  Youngseog Chung, Willie Neiswanger, **Ian Char**, Jeff Schneider
+  Youngseog Chung, Willie Neiswanger, <u>Ian Char</u>, Jeff Schneider
   <br>
   Advances in Neural Information Processing Systems. **NeurIPS 2021**.
   <br>
@@ -52,7 +52,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Neural Dynamical Systems: Balancing Structure and Flexibility in Physical Prediction**
   <br>
-  Viraj Mehta, **Ian Char**, Willie Neiswanger, Youngseog Chung, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
+  Viraj Mehta, <u>Ian Char</u>, Willie Neiswanger, Youngseog Chung, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
   <br>
   IEEE Conference on Decision and Control. **CDC 2021**.
   <br>
@@ -60,7 +60,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Offline Contextual Bayesian Optimization**
   <br>
-  **Ian Char**, Youngseog Chung, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
+  <u>Ian Char</u>, Youngseog Chung, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark D Boyer, Egemen Kolemen, Jeff Schneider
   <br>
   Advances in Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
@@ -68,7 +68,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Stochastic Analysis of Minimal Automata Growth for Generalized Strings**
   <br>
-  **Ian Char**, Manuel Lladser
+  <u>Ian Char</u>, Manuel Lladser
   <br>
   Methodology and Computing in Applied Probability. 2019.
   <br>
@@ -88,7 +88,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**
   <br>
-  **Ian Char**, Jeff Schneider
+  <u>Ian Char</u>, Jeff Schneider
   <br>
   Preprint (In Submission).
   <br>
@@ -96,7 +96,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **How Useful are Gradients for OOD Detection Really?**
   <br>
-  Conor Igoe, Youngseog Chung, **Ian Char**, Jeff Schneider
+  Conor Igoe, Youngseog Chung, <u>Ian Char</u>, Jeff Schneider
   <br>
   Preprint.
   <br>
@@ -104,7 +104,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **BATS: Best Action Trajectory Stitching**
   <br>
-  **Ian Char**<sup>\*</sup>, Viraj Mehta<sup>\*</sup>, Adam Villaflor, John Dolan, Jeff Schneider
+  <u>Ian Char</u><sup>\*</sup>, Viraj Mehta<sup>\*</sup>, Adam Villaflor, John Dolan, Jeff Schneider
   <br>
   NeurIPS 2021 Offline Reinforcement Learning Workshop
   <br>
@@ -112,7 +112,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Uncertainty Toolbox: an Open-Source Library for Assessing, Visualizing, and Improving Uncertainty Quantification**
   <br>
-  Youngseog Chung, **Ian Char**, Han Guo, Jeff Schneider, Willie Neiswanger
+  Youngseog Chung, <u>Ian Char</u>, Han Guo, Jeff Schneider, Willie Neiswanger
   <br>
   Uncertainty and Robustness in Deep Learning Workshop (ICML 2021)
   <br>
@@ -120,7 +120,7 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 - **Offline contextual bayesian optimization for nuclear fusion**
   <br>
-  Youngseog Chung, **Ian Char**, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark Dan Boyer, Egemen Kolemen, Jeff Schneider
+  Youngseog Chung, <u>Ian Char</u>, Willie Neiswanger, Kirthevasan Kandasamy, Andrew Oakleigh Nelson, Mark Dan Boyer, Egemen Kolemen, Jeff Schneider
   <br>
   Machine Learning and the Physical Sciences Workshops at NeurIPS 2019.
   <br>
