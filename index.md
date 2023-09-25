@@ -10,6 +10,14 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 ## Publications
 
+- **PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**
+  <br>
+  <u>Ian Char</u>, Jeff Schneider
+  <br>
+  Advances in Neural Information Processing Systems. **NeurIPS 2023**.
+  <br>
+  [[PDF](https://arxiv.org/abs/2307.05891)] [[Code](https://github.com/IanChar/GPIDE)]
+
 - **Offline Model-Based Reinforcement Learning for Tokamak Control**
   <br>
   <u>Ian Char</u>, Joseph Abbate, Laszlo Bardoczi, Mark D. Boyer, Youngseog Chung, Rory Conlin, Keith Erickson, Viraj Metha, Nathan Richner, Egemen Kolemen, Jeff Schneider
@@ -84,15 +92,8 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
   [[Code](https://github.com/uncertainty-toolbox/uncertainty-toolbox)] [[Website](https://uncertainty-toolbox.github.io/)]
 
 
-## Preprints and Workshop Papers (\* indicates equal contribution)
+## Workshop Papers and Technical Reports(\* indicates equal contribution)
 
-- **PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**
-  <br>
-  <u>Ian Char</u>, Jeff Schneider
-  <br>
-  Preprint (In Submission).
-  <br>
-  [[PDF](https://arxiv.org/abs/2307.05891)] [[Code](https://github.com/IanChar/GPIDE)]
 
 - **How Useful are Gradients for OOD Detection Really?**
   <br>
