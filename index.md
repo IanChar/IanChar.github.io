@@ -94,6 +94,31 @@ Before joining CMU, I earned a MS in [Applied Mathematics from University of Col
 
 ## Workshop Papers and Technical Reports(\* indicates equal contribution)
 
+- **Towards LLMs as Operational Copilots for Fusion Reactors**
+  <br>
+  Viraj Mehta, Joseph Abbate, Allen Wang, Andrew Rothstein, <u>Ian Char</u>, Jeff Schneider, Egemen Kolemen, Christina Rea, Darren Garneir
+  <br>
+  NeurIPS 2023 AI4Science Workshop.
+  Preprint.
+  <br>
+  PDF coming soon!
+
+- **Correlated Trajectory Uncertainty for Adaptive Sequential Decision Making**
+  <br>
+  <u>Ian Char</u><sup>\*</sup>, Youngseog Chung<sup>\*</sup>, Rohan Shah, Jeff Schneider
+  <br>
+  NeurIPS 2023 Worshop on Adaptive Experimental Design and Active Learning in the Real World
+  Preprint.
+  <br>
+  PDF coming soon!
+
+- **How Useful are Gradients for OOD Detection Really?**
+  <br>
+  Conor Igoe, Youngseog Chung, <u>Ian Char</u>, Jeff Schneider
+  <br>
+  Preprint.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2205.10439.pdf)]
 
 - **How Useful are Gradients for OOD Detection Really?**
   <br>
