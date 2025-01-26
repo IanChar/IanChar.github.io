@@ -11,7 +11,7 @@ can accelerate scientific discovery.
 
 Previously, I was a PhD student in the [Machine Learning
 Department](https://www.ml.cmu.edu/) at Carnegie Mellon University  advised by [Jeff
-Schneider](https://www.cs.cmu.edu/~schneide/). There, my [thesis](https://kilthub.cmu.edu/articles/thesis/Advancing_Model-Based_Reinforcement_Learning_with_Applications_in_Nuclear_Fusion/26253854?file=47589086) revolved around method development for [tokamak control for
+Schneider](https://www.cs.cmu.edu/~schneide/). There, my [thesis](https://kilthub.cmu.edu/articles/thesis/Advancing_Model-Based_Reinforcement_Learning_with_Applications_in_Nuclear_Fusion/26253854?file=47589086) revolved around model-based reinforcement learning applied to [tokamak control for
 nuclear fusion](https://www.cs.cmu.edu/news/2022/ian-char-nuclear-fusion).
 
 
@@ -133,7 +133,7 @@ Previously, I earned a MS in [Applied Mathematics from University of Colorado Bo
 
 - **Machine Learning Department Social Committee**
   <br>
-  Fall 2019 Onwards
+  2019-2023
 
 - **Reviewer for NeurIPS 2023**
   <br>
